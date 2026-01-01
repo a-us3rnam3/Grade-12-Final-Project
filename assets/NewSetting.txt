@@ -1,0 +1,12 @@
+1000
+60
+1851
+3215
+0
+0.0
+false
+false
+false
+false
+false
+PROGRAMMING

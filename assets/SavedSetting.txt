@@ -1,0 +1,12 @@
+1814.9824
+2850.5613
+739.9989
+1035.0
+19
+31.520718
+false
+true
+true
+true
+false
+PROGRAMMING
